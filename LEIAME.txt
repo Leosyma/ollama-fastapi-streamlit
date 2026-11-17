@@ -1,4 +1,3 @@
-# Data Science Academy
 # Administração de Sistema Operacional Linux com Docker e Kubernetes
 # Lab 6 - Deploy de API Para Aplicação de IA com Ollama, Streamlit e Docker Compose
 
